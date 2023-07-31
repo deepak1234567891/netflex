@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflex/static/css/main.71aec1a2.css",
+    "main.js": "/netflex/static/js/main.11a2b73e.js",
+    "index.html": "/netflex/index.html",
+    "main.71aec1a2.css.map": "/netflex/static/css/main.71aec1a2.css.map",
+    "main.11a2b73e.js.map": "/netflex/static/js/main.11a2b73e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71aec1a2.css",
+    "static/js/main.11a2b73e.js"
+  ]
+}
